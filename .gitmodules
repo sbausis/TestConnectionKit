@@ -1,0 +1,4 @@
+[submodule "ConnectionKit"]
+	path = ConnectionKit
+	url = https://github.com/sbausis/ConnectionKit.git
+	branch = v2.x-beta
