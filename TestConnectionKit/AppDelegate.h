@@ -7,6 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import <ConnectionKit/ConnectionKit.h>
 
 @interface AppDelegate : NSObject <NSApplicationDelegate>
 
